@@ -22,11 +22,4 @@
 
 - 🔭 I’m currently working on indie game dev on [itch.io](https://fire-bellied-toad.itch.io/)
 - 🌱 I’m currently learning Godot and Unity game dev
-
-## Games
-
-[<iframe frameborder="0" src="https://itch.io/embed/718519" width="552" height="167"><a href="https://fire-bellied-toad.itch.io/the-sun-is-off">The Sun Is Off by S.</a></iframe>][thesunisoff]
-
-[<iframe frameborder="0" src="https://itch.io/embed/696428" width="552" height="167"><a href="https://fire-bellied-toad.itch.io/autonomous">Autonomous by S.</a></iframe>][autonomous]
-
-[<iframe frameborder="0" src="https://itch.io/embed/659068" width="552" height="167"><a href="https://fire-bellied-toad.itch.io/torn">Torn by S.</a></iframe>][torn]
+- ⚡ Fun fact: Recently started working with some friends on a more serious [indie game dev project](https://troystorygames.com)
